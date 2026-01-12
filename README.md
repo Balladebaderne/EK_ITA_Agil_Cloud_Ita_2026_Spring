@@ -11,7 +11,7 @@
 
 | #       |   Date   | Topics |
 |:-------:|:--------:|:-----|
-|    1    |27/01-26  | [Introduktion til ITArkitektur, Cloud og DevOps](01/)      |
+|    1    |27/01-26  | [Introduktion til ITArkitektur, Cloud og DevOps](01/README.md)|
 |    2    |30/01-26  | [Linux](02/README.md)          |
 |    3    |3/2-26    | [Linux II](03/README.md)              |
 |    4    |6/2-26    | [Eksamensprojekt & Source Code Archeology](04)     |
