@@ -56,7 +56,7 @@
 
 
 
-
+<!--
 # Unix/Linux fundamentals
 
 ## INTRO - Emner
@@ -87,7 +87,6 @@ i   * Windows (anders slide)
 9. Docker
     * terminal kommandoer (tech1) 
 
+-->
 
-
-----
 
