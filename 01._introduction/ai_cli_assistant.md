@@ -2,7 +2,7 @@
 
 **Type:** Individual
 
-**Deadline:** 1 day before the next lecture
+**Deadline:** Before the next lecture
 
 I this course you are required to use AI assistent CLI coding tools, and at the exam you should be able to describe your use, relate to your choises of tools, describe and evaluate them and evaluate.
 

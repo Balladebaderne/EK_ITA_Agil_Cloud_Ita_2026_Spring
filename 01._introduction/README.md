@@ -27,7 +27,6 @@
 
 
 * [AI CLI assistance](ai_cli_assistant.md)
-* [Claude Code](https://code.claude.com/docs/en/overview)
 
 ## After Class
 * Group creation, and create a pull request with group info in groups.py
