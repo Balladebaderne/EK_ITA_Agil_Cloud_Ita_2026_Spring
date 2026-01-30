@@ -1,12 +1,12 @@
 GROUP_REPOS = [
         {
-            "name": "DenDanskeMetode",
-            "gitLinks": ["https://github.com/DenDanskeMetode/legacyProject"],
-            "backend": "",
-            "frontend": "",
+            "name": "BalladeBaderne",
+            "gitLinks": ["https://github.com/organizations/Knights-of-the-roundabout/settings/profile"],
+            "backend": "Node.js",
+            "frontend": "React",
             "monitoring": "",
-            "stack": [],
+            "stack": [Node.js,React],
             "documentation": [],
-            "members": ["Felix Llambias", "Nicholas Ladik", "Christian Skovgaard", "Victor Lotz"],
+            "members": ["Magnus Giemsa", "Laurits Munk", "Elias Garcia", "Andreas Brandenborg", "Jacob Bisgård"],
         },
 ]
