@@ -29,7 +29,9 @@ I skal have installeret Linux så i kan arbejde med operativsystemet.
 
 Det gør i ved at køre denne docker kommando i jeres terminal. (Terminal til Mac, Powershell til Windown)
 
-`docker run -d --name=webtop-ubuntu-mate --security-opt seccomp=unconfined  -e PUID=1000 -e PGID=1000 -e TZ=Etc/UTC -e SUBFOLDER=/  -e TITLE=ITADevOps -p 3000:3000 -p 3001:3001 -v ~/webtop:/config -v /var/run/docker.sock:/var/run/docker.sock  --shm-size="1gb"  --restart unless-stopped lscr.io/linuxserver/webtop:ubuntu-mate` 
+```
+docker run -d --name=webtop-ubuntu-mate --security-opt seccomp=unconfined  -e PUID=1000 -e PGID=1000 -e TZ=Etc/UTC -e SUBFOLDER=/  -e TITLE=ITADevOps -p 3000:3000 -p 3001:3001 -v ~/webtop:/config -v /var/run/docker.sock:/var/run/docker.sock  --shm-size="1gb"  --restart unless-stopped lscr.io/linuxserver/webtop:ubuntu-mate
+``` 
 
 Herefter kommer i til at arbejde  med systemet og i kommer blandt andet igennem at bruge disse kommandoer: [Linux terminal commands and file system](unix_commands.md)
 
