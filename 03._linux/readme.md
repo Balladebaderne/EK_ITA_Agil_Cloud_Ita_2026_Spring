@@ -33,8 +33,15 @@ Se og følg tutorials i de tre videoer:
 ### The Principle og Flow 
 _(DevOps Handbook p. 54-61)_
 
-* Make your work visible
-* Limit Work in Process (WIP)
+* **Make your work visible**
+    * Kanban
+    * Project
+    * Release
+    * groups.py
+        * LECENSE
+    * other? 
+* **Limit Work in Process (WIP)**
+    * 
 * Reduce Batch size
 **Show your work!**
 
