@@ -42,7 +42,7 @@ GROUP_REPOS = [
         },
   {
             "name": "BalladeBaderne",
-            "gitLinks": ["https://github.com/Balladebaderne/legacy-project"],
+            "gitLinks": ["https://github.com/Balladebaderne/cookbook"],
             "backend": "SQL",
             "frontend": "React",
             "monitoring": "",
