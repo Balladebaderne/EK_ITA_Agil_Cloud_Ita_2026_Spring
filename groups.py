@@ -39,5 +39,15 @@ GROUP_REPOS = [
             "stack": [],
             "documentation": [],
             "members": ["Linea", "Jonas", "Føen (Faprao)", "Nikoleta"],
+        },
+  {
+            "name": "BalladeBaderne",
+            "gitLinks": ["https://github.com/Balladebaderne/legacy-project"],
+            "backend": "SQL",
+            "frontend": "React",
+            "monitoring": "",
+            "stack": ["Node.js","React"],
+            "documentation": ["https://github.com/Balladebaderne/legacy-project/blob/master/README.md"],
+            "members": ["Magnus Giemsa", "Laurits Munk", "Elias Garcia", "Andreas Brandenborg", "Jacob Bisgård"],
         }
 ]
